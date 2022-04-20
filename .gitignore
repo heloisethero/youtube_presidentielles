@@ -1,0 +1,5 @@
+.minetrc
+.python-version
+.ipynb_checkpoints
+*.png
+*_raw.csv

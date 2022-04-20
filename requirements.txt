@@ -1,0 +1,5 @@
+jupyter==1.0.0
+minet==0.60.1
+pandas==1.4.2
+requests==2.27.1
+matplotlib==3.5.1
